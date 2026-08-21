@@ -1,0 +1,36 @@
+{
+  "class_size": 5,
+  "top_student": "Diona",
+  "subject_averages": {
+    "python": 84.8,
+    "ict": 85.8,
+    "math": 81.4
+  },
+  "students": [
+    {
+      "name": "Diona",
+      "average": 95.33,
+      "status": "Pass"
+    },
+    {
+      "name": "Arta",
+      "average": 91.0,
+      "status": "Pass"
+    },
+    {
+      "name": "Era",
+      "average": 87.67,
+      "status": "Pass"
+    },
+    {
+      "name": "Blerim",
+      "average": 78.33,
+      "status": "Pass"
+    },
+    {
+      "name": "Luan",
+      "average": 67.67,
+      "status": "Pass"
+    }
+  ]
+}
